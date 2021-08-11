@@ -113,9 +113,6 @@ while True:
     if cv2.waitKey(25) & 0xFF == ord('q'):
         break
 
-    # except Exception as e:
-    #     print(f'Something went wrong: {e}')
-    #     break
 
 
     
